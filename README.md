@@ -28,13 +28,23 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+    DOM or Documented Object Model, is a cross-platform language used to create a bridge between HTML, CSS and JavaScript. It creates a tree-like structure that we can then use to manipulate data at multiple levels in a webpage.
+
 2. What is an event?
+
+    An event is an interactive feature that manipulates HTML from the DOM.
 
 3. What is an event listener?
 
+    An event listener is a function that says wait for a certain task to be completed and upon that assigned task, it activates an event on the HTML.
+
 4. Why would we convert a NodeList into an Array?
 
+    Converting a NodeList to an Array allows us to then use JavaScript methods to manipulate the data in the DOM.
+
 5. What is a component?
+
+    A component is a set of code that is re-usable and makes it so our code doesn't repeat as much and thus is smaller.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
